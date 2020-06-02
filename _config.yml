@@ -1,1 +1,60 @@
-theme: jekyll-theme-minimal
+# --- Basic options --- #
+
+# Name of website
+title: git checkout this_site<sub>19</sub>
+theme: jekyll-theme-cayman
+
+# Short description of your site
+description: See what I did there? :D
+
+# Your name to show in the footer
+author: Rituraj Raman
+
+# --- List of links in the navigation bar --- #
+# 
+#navbar-links:
+#  About Me: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
+
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+#avatar: "/assets/img/avatar-icon.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour here.
+#round-avatar: true
+
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+#title-img: /path/to/image
+
+# --- Footer options --- #
+#
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+# If you don't want to show a link to an RSS feed, set rss to "false".
+social-network-links:
+    email: "r.ramanbits@gmail.com"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  rss: true
+#  reddit: yourname
+#  linkedin: https://www.linkedin.com/in/rituraj-raman-a37348aa/
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+
